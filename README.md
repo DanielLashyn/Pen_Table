@@ -1,8 +1,8 @@
 # Pen Table
 
 ## Table of Contents:
-- [Background](#Background:)
-- [Design](#Design:)
+- [Background](#Background)
+- [Design](#Design)
 - [Improvements](#Improvements)
 
 
