@@ -1,12 +1,12 @@
 # Pen Table
 
-# Table of Contents:
-- Background
-- Design
-- Improvements
+## Table of Contents:
+- [Background](#Background:)
+- [Design](#Design:)
+- [Improvements](#Improvements)
 
 
-## Background
+## Background:
 The start of my second year of university was we were allowed to resume in person classes, due to the pandemic. With the number of students in the class, a majoirtity of our lecutures we given in the lecture halls. Which meant we were sitting in lecture desks. The issue with lecture desks is there not enough room to take notes without bumping items off the desk.  After the first few classes I came up with the following requierments: 
 - Easily able to slide the device in/out of lecture desks.
 - Not impede the abilty to note take on a 8.5x11 paper.
