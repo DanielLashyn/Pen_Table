@@ -1,5 +1,7 @@
 # Pen Table
 
+ #TODO add picture of pentable here
+ 
 ## Table of Contents:
 - [Background](#Background)
 - [Design](#Design)
@@ -14,9 +16,12 @@ The start of my second year of university was we were allowed to resume in perso
 - Store a minimum of four pens and calculator when not in use.
 - Allow for easy access to the calculator.
 
+ #TODO show lecture tables here 
+
 After acquiring some mesurments and a few sketches, the following design was created.
 
- #TODO add image of design
+![3d Model Back View](Images/3dModel_BackView.png?raw=True)
+![3d Model Front View](Images/3dModel_FrontView.png?raw=True)
 
 ## Design:
 
@@ -24,6 +29,9 @@ The product was designed with wood as the build material, due to being inexpensi
 
 
 An unintentional design was the angle given when the pen table was placed on top of the desk. Because of the angle the device could be used ontop of the table and a phone could be placed inside. To allow for viewing the lecture slides without requiring two hands. 
+ 
+ #TODO add picture of pentable resting and  inside desk
+
 
 
  #TODO add design specs here
