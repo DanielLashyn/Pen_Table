@@ -28,6 +28,8 @@ The product was designed with wood as the build material, due to being inexpensi
 
 An unintentional design was the angle given when the pen table was placed on top of the desk. Because of the angle the device could be used ontop of the table and a phone could be placed inside. To allow for viewing the lecture slides without requiring two hands. 
 
+The cutlist can be found by clicking the following link:  
+[Pentable Cutlist](Design/Pentable_Design.pdf)
 
 ## Improvements:
 The Pen Table was able to last for all remaining years of university. 
